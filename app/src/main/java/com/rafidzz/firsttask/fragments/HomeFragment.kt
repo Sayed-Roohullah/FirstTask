@@ -26,7 +26,6 @@ import com.rafidzz.firsttask.model.Contact
 import java.util.*
 import kotlin.collections.ArrayList
 
-
 class HomeFragment : Fragment(R.layout.fragment_home), listClicklistener {
     private lateinit var searchView: SearchView
 
