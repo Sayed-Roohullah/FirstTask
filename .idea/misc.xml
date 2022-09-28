@@ -7,11 +7,15 @@
         <entry key="app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.138" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/child_recycler.xml" value="0.10572916666666667" />
         <entry key="app/src/main/res/layout/fragment_category.xml" value="0.12" />
         <entry key="app/src/main/res/layout/fragment_data.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_menu.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_row.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/item_short_news.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/layout_one.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/layout_two.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/list_item.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/nav_graph.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/side_text_view.xml" value="0.357421875" />
