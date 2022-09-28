@@ -24,7 +24,7 @@ class Category : Fragment(R.layout.fragment_category) {
             )
             adapter = ParentAdapter(
                 ParentDataFactory
-                    .getParents(40)
+                    .getParents(20)
             )
 
         }
